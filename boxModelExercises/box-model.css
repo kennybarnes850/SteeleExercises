@@ -1,0 +1,29 @@
+p {
+
+/*Content - Width and Height. We can also use % to manipulate the width and height*/
+width: 50%;
+
+/*Border*/
+border: 2px solid blue;
+
+/*Padding*/
+/*padding: 10px;*/
+padding-left: 40px;
+
+
+/*Margin is the space between the elements*/
+/*margin: 100px;*/
+/*margin-top: 500px;*/
+
+
+/* Remember that the margin box goes: 
+top, right, bottom, left. 
+Putting in the margins like this will allow you to 
+adjust all the margins in one line.*/
+/*margin: 20px 40px 500px 100px;*/
+
+/*If you want the margin to be centered, you can use the "auto" function to do it*/
+margin: 0 auto;
+
+
+}
